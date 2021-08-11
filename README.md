@@ -1,4 +1,4 @@
-# Minor-Year-Project
+# Visualization of Solar Radio Outburst
 
 A Minor Project Report On "Visualization of Solar Radio Outburst"
 
